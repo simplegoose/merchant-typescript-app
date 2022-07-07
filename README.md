@@ -10,7 +10,7 @@ This is one of my projects done with TypeScript.
 # Getting Started
 
 - Ensure you have a .env file created. The required variables are namely: -
-    > MONGO_URI
+    > MONGO_URI,
     > JWT_SECRET
 
 ## Available Scripts
@@ -25,13 +25,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your client.
 
 ### `npm run dev`
 
-Runs the app in development mode.\
-The page will reload when you make changes.\
+Runs the app in development mode.
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `dist` folder.\
+Builds the app for production to the `dist` folder.
 
 ### `npm test`
 
